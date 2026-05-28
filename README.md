@@ -1,4 +1,6 @@
-## Hi there 👀
+# Gyromitte
+
+iOS developer interested in game systems and low-level programming.
 
 - 🔭 I’m currently working on a 3D Game Project yet to be revealed
 - 🌱 I’m currently learning Swift UI and DSA

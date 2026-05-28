@@ -6,7 +6,9 @@ iOS developer interested in game systems and low-level programming.
 - 🌱 I’m currently learning Swift UI and DSA
 - 💬 Ask me about how was my day 🤟
 - 📫 How to reach me: gyromitte@gmail.com 
-- 👾 Fun fact: I have 32 days of playtime on FFXIV (and counting...) 
+- 👾 Fun fact: I have 32 days of playtime on FFXIV (and counting...)
+
+![Movement Demo](200.gif)
 
 <!--
 **Gyromitte/Gyromitte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

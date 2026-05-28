@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👀
+
+- 🔭 I’m currently working on a 3D Game Project yet to be revealed
+- 🌱 I’m currently learning Swift UI and DSA
+- 💬 Ask me about how was my day 🤟
+- 📫 How to reach me: gyromitte@gmail.com 
+- 👾 Fun fact: I have 32 days of playtime on FFXIV (and counting...) 
 
 <!--
 **Gyromitte/Gyromitte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

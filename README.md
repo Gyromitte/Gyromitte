@@ -2,7 +2,7 @@
 
 iOS developer interested in game systems and low-level programming.
 
-- 🔭 I’m currently working on a 3D Game Project yet to be revealed
+- 🔭 I’m currently working on a 3D Game Project in my free time
 - 🌱 I’m currently learning Swift UI and DSA
 - 💬 Ask me about how was my day 🤟
 - 📫 How to reach me: gyromitte@gmail.com 

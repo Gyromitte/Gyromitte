@@ -1,4 +1,4 @@
-# Gyromitte || iOS Developer and Software Engineer
+# Gyromitte - iOS Developer and Software Engineer
 
 iOS developer interested in game systems and low-level programming.
 
